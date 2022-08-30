@@ -1,4 +1,4 @@
-namespace ExemploAspNetMvc.Models;
+namespace Calculadora.Models;
 
 public class ErrorViewModel
 {

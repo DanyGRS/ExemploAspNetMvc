@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using ExemploAspNetMvc.Models;
+using Calculadora.Models;
 
 namespace ExemploAspNetMvc.Controllers;
 

@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Subtrair";
+    <link rel="stylesheet" href="~/css/somar.css" asp-append-version="true" />
+}
+
+    <h1>Operação Matemática Subtrair</h1>
+    <p>Utilize o formulário abaixo para subtrair dois números</p>
+<form action="ResultadoSubtrair" method="post">
+    <label for="numberOne">Número 1</label>
+    <input type="text" name="numberOne" id="numberOne">
+    <br>
+    <label for="numberTwo">Número 2</label>
+    <input type="text" name="numberTwo" id="numberTwo">
+    <br>
+    <button class="btn" type="submit">Subtrair</button>
+</form>

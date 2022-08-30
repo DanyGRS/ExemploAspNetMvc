@@ -1,0 +1,17 @@
+form {
+    display:inline-grid;
+}
+
+.btn{
+    width: 100px;
+    background-color: rgb(72, 72, 72);
+    font-weight: 600;
+    color: white;
+    border-radius: 0%;
+    height: 30px;
+    line-height: 15px;
+}
+
+.btn:hover{
+    color:rgb(204, 204, 204);
+}
