@@ -31,7 +31,7 @@ public class OperacoesMatematicasController : Controller
         return View();
     }
 
-    public IActionResult ResultadoSomar([FromForm]double numberOne, [FromForm] double numberTwo)
+    public IActionResult ResultadoSomar([FromForm] double numberOne, [FromForm] double numberTwo)
     {
         ViewData["numberOne"] = numberOne;
         ViewData["numberTwo"] = numberTwo;
@@ -40,7 +40,7 @@ public class OperacoesMatematicasController : Controller
         return View();
     }
 
-    public IActionResult ResultadoSubtrair([FromForm]double numberOne, [FromForm] double numberTwo)
+    public IActionResult ResultadoSubtrair([FromForm] double numberOne, [FromForm] double numberTwo)
     {
         ViewData["numberOne"] = numberOne;
         ViewData["numberTwo"] = numberTwo;
@@ -48,7 +48,7 @@ public class OperacoesMatematicasController : Controller
 
         return View();
     }
-    public IActionResult ResultadoMultiplicar([FromForm]double numberOne, [FromForm] double numberTwo)
+    public IActionResult ResultadoMultiplicar([FromForm] double numberOne, [FromForm] double numberTwo)
     {
         ViewData["numberOne"] = numberOne;
         ViewData["numberTwo"] = numberTwo;
@@ -56,7 +56,7 @@ public class OperacoesMatematicasController : Controller
 
         return View();
     }
-    public IActionResult ResultadoDividir([FromForm]double numberOne, [FromForm] double numberTwo)
+    public IActionResult ResultadoDividir([FromForm] double numberOne, [FromForm] double numberTwo)
     {
         ViewData["numberOne"] = numberOne;
         ViewData["numberTwo"] = numberTwo;

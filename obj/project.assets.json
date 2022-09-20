@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
       "projectName": "ExemploAspNetMvc",
-      "projectPath": "C:\\Users\\PC\\Desktop\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\ExemploAspNetMvc\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\ExemploAspNetMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
